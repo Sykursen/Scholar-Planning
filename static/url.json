@@ -45,6 +45,48 @@
     ]
   },
   {
+    "univ": "ensibs",
+    "title": "ENSIBS",
+    "univ_edts": [
+      {
+        "name": "cyberdefa1",
+        "title": "Cyber Défense A1",
+        "edts": [
+          {
+            "name": "cybera1tp1",
+            "title": "A1 TP1",
+            "url": "https://planning.univ-ubs.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=8241fc3873200214ea232fa64e22a85ce0fa50826f0818af4a82a8fde6ce3f14906f45af276f59ae8fac93f781e86152d0472efb473cb41fbcd12dfcc8a8c0e5c2973627c2eb073b745dafb5ad25500c8d3f4109b6629391"
+          },
+          {
+            "name": "cybera1tp2",
+            "title": "A1 TP2",
+            "url": "https://planning.univ-ubs.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=8241fc38732002147a2467c8676b4c4ce0fa50826f0818af4a82a8fde6ce3f14906f45af276f59ae8fac93f781e86152d0472efb473cb41fa75db87a98c1df43c2973627c2eb073bd069ac5dd47c66c98d3f4109b6629391"
+          },
+          { 
+            "name": "cybera1tp3",
+            "title": "A1 TP3",
+            "url": "https://planning.univ-ubs.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=8241fc38732002145d23762f9a03a572e0fa50826f0818af4a82a8fde6ce3f14906f45af276f59ae8fac93f781e86152d0472efb473cb41fa75db87a98c1df43c2973627c2eb073b65fa7e6095824bce8d3f4109b6629391"
+          },
+          {
+            "name": "cybera1tp4",
+            "title": "A1 TP4",
+            "url": "https://planning.univ-ubs.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=8241fc3873200214d82a8a376f840539e0fa50826f0818af4a82a8fde6ce3f14906f45af276f59ae8fac93f781e86152d0472efb473cb41fa75db87a98c1df43c2973627c2eb073b65fa7e6095824bce8d3f4109b6629391"
+          },
+          {
+            "name": "cybera1tp5",
+            "title": "A1 TP5",
+            "url": "https://planning.univ-ubs.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=8241fc38732002143abaf3ca4ee7fe0ee0fa50826f0818af4a82a8fde6ce3f14906f45af276f59ae8fac93f781e86152d0472efb473cb41fa75db87a98c1df43c2973627c2eb073b65fa7e6095824bce8d3f4109b6629391"
+          },
+          {
+            "name": "cybera1tp6",
+            "title": "A1 TP6",
+            "url": "https://planning.univ-ubs.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=8241fc3873200214d9759ca198b3f265e0fa50826f0818af4a82a8fde6ce3f14906f45af276f59ae8fac93f781e86152d0472efb473cb41fa75db87a98c1df43c2973627c2eb073b65fa7e6095824bce8d3f4109b6629391"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "univ": "uga",
     "title": "Université Grenoble Alpes",
     "univ_edts": [
