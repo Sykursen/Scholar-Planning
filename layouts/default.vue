@@ -11,7 +11,7 @@
         </div>
       </transition>
       <v-icon>mdi-calendar</v-icon>
-      Planning IUT
+      Scholar Planning
       <v-spacer />
       <v-icon>mdi-school</v-icon>
       <span>{{ time }}</span>
@@ -117,7 +117,7 @@ export default {
           to: '/'
         }
       ],
-      title: 'Planning IUT'
+      title: 'Scholar Planning'
     }
   },
   mounted () {

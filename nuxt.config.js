@@ -5,12 +5,12 @@ export default {
   ssr: true,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: 'PlanningIUT',
-    title: 'PlanningIUT',
+    titleTemplate: 'ScholarPlanning',
+    title: 'ScholarPlanning',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Un planning universitaire sympathique réalisé par @kernoeb' }
+      { hid: 'description', name: 'description', content: 'Un planning universitaire sympathique réalisé par @kernoeb et @Sykursen' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/icon.png' }

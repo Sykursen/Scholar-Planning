@@ -1,8 +1,8 @@
-# planningiut
+# Scholar-Planning
 
-Un planning universitaire moderne réalisé par @kernoeb.  
+Un planning universitaire moderne réalisé par @kernoeb et @Sykursen.  
 
-![Heroku](https://heroku-badge.herokuapp.com/?app=planningiut)
+![Heroku](https://heroku-badge.herokuapp.com/?app=scholar-planning)
 
 ### Ajouter une spécialité ou une université
 
